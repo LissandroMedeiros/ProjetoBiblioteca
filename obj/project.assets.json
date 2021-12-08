@@ -850,11 +850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade1\\Biblioteca-ativ\\Biblioteca\\Biblioteca.csproj",
+      "projectUniqueName": "G:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Biblioteca.csproj",
       "projectName": "Biblioteca",
-      "projectPath": "G:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade1\\Biblioteca-ativ\\Biblioteca\\Biblioteca.csproj",
+      "projectPath": "G:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Biblioteca.csproj",
       "packagesPath": "C:\\Users\\Ti\\.nuget\\packages\\",
-      "outputPath": "G:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade1\\Biblioteca-ativ\\Biblioteca\\obj\\",
+      "outputPath": "G:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ti\\AppData\\Roaming\\NuGet\\NuGet.Config"
