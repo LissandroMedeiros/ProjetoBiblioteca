@@ -104,3 +104,9 @@ G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcor
 G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Biblioteca.dll
 G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastraUsuario.cshtml.g.cs
+G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroRealizado.cshtml.g.cs
+G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditaUsuario.cshtml.g.cs
+G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaUsuarios.cshtml.g.cs
+G:\Meu Drive\Senac-TIinternet\UC7\Atividade2\uc7-ativ2-entregar\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs

@@ -21,7 +21,7 @@ namespace Biblioteca.Controllers
 
         public IActionResult Index()
         {
-            Autenticacao.CheckLogin(this);
+            Autenticacao.verificaLogin(this);
             return View();
         }
 
@@ -33,16 +33,39 @@ namespace Biblioteca.Controllers
         [HttpPost]
         public IActionResult Login(string login, string senha)
         {
-            if(login != "admin" || senha != "123")
-            {
-                ViewData["Erro"] = "Senha inválida";
-                return View();
+        // PARAMETRO ORIGINAL 
+        //    if(login != "admin" || senha != "123")
+        //    {
+        //        ViewData["Erro"] = "Senha inválida";
+        //        return View();
+        //    }
+        //    else
+        //    {
+        //        HttpContext.Session.SetString("user", "admin");
+        //        return RedirectToAction("Index");
+        //    } 
+
+ //Se o login/senha OK
+            if(Autenticacao.verificaLoginSenha(login, senha, this))
+            { 
+                //grava nos cookies
+                HttpContext.Session.SetString("Login", login);
+                
+                //Redir inicial
+                return RedirectToAction("Index");
             }
             else
             {
-                HttpContext.Session.SetString("user", "admin");
-                return RedirectToAction("Index");
+                //Exibe erro
+                ViewData["Erro"] = "Login ou Senha inválidos";
+
+                //Retorna a propria View
+                return View();               
             }
+
+
+
+
         }
 
         public IActionResult Privacy()
