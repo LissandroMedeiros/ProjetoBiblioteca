@@ -1,6 +1,7 @@
 using System.Linq;
 using System.Collections.Generic;
 using System.Collections;
+using System;
 
 namespace Biblioteca.Models
 {
@@ -37,7 +38,7 @@ namespace Biblioteca.Models
                 
                 if(filtro != null)
                 {
-                    //definindo dinamicamente a filtragem
+                    //definine a filtragem
                     switch(filtro.TipoFiltro)
                     {
                         case "Autor":

@@ -14422,8 +14422,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Emprestimo\\Cadastro.cshtml",
       "TargetPath": "Views\\Emprestimo\\Cadastro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Usuario\\CadastrarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastrarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14434,6 +14444,16 @@
     {
       "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Usuario\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastroRealizado.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Usuario\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\NeedAdmin.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14452,6 +14472,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Usuario\\ListaUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -14464,6 +14489,11 @@
     {
       "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "g:\\Meu Drive\\Senac-TIinternet\\UC7\\Atividade2\\uc7-ativ2-entregar\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {
